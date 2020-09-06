@@ -1,3 +1,3 @@
 # Java-Swing-Login-UI
 
-https://raw.githubusercontent.com/edcota/Java-Swing-Login-UI/master/Login/src/resources/example.jpg
+https://github.com/edcota/Java-Swing-Login-UI/blob/master/Login/src/resources/example.jpg?raw=true
